@@ -1,40 +1,25 @@
-# 📊 Sales Dashboard – Power BI
+# 👋 Hello, I'm Youssef
 
-## 📌 Project Overview
+## Data Analyst Portfolio
 
-This project analyzes sales performance using Power BI.
+Welcome to my portfolio.
 
-The dashboard includes:
-
-- Total Sales
-- Total Profit
-- Average Discount
-- Number of Orders
-- Sales by Month
-- Profit by Country
-- Sales by Salesperson
-- Sales by Category
-- Top 5 Products by Sales
-
----
-
-## 🛠️ Tools Used
-
+Here you will find projects built using:
 - Power BI
 - Excel
-- Data Cleaning
-- Data Visualization
+- SQL
+- Python (coming soon)
 
----
+## Projects
 
-## 📂 Files
+### 📊 Project 01 – Sales Dashboard (Power BI)
 
-- 50 STAR.xlsx
-- 50 st.pbix
-- Dashboard.pdf
+Tools:
+- Power BI
+- Excel
 
----
+Description:
+Interactive dashboard to analyze sales, profit, products, and customer performance.
 
-## 📷 Dashboard Preview
-
-![Dashboard](Dashboard.png)
+➡️ Open the folder:
+Project-01-Sales-dashboard
