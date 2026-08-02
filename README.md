@@ -1,27 +1,40 @@
-Sales Dashboard – Power BI
+# 📊 Sales Dashboard – Power BI
 
 ## 📌 Project Overview
+
 This project analyzes sales performance using Power BI.
 
-## 🛠 Tools Used
-- Power BI
-- Microsoft Excel
-- Power Query
+The dashboard includes:
 
-## 📈 Dashboard KPIs
 - Total Sales
 - Total Profit
 - Average Discount
-- Total Orders
-
-## 📊 Visualizations
+- Number of Orders
 - Sales by Month
 - Profit by Country
 - Sales by Salesperson
 - Sales by Category
 - Top 5 Products by Sales
 
+---
+
+## 🛠️ Tools Used
+
+- Power BI
+- Excel
+- Data Cleaning
+- Data Visualization
+
+---
+
 ## 📂 Files
-- 50 STAR.xlsx → Source dataset
-- 50 st.pbix → Power BI project
-- Dashboard.pdf → Dashboard preview
+
+- 50 STAR.xlsx
+- 50 st.pbix
+- Dashboard.pdf
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](Dashboard.png)
